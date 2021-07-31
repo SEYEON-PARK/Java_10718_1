@@ -9,7 +9,7 @@ ACM-ICPC 인터넷 예선, Regional, 그리고 World Finals까지 이미 2회씩
 
 public class Main{ // 클래스 Main
     public static void main(String [] args){ // main 메소드
-        System.out.println("강한친구 대한육군");
+        System.out.println("강한친구 대한육군"); // 출력하기
         System.out.println("강한친구 대한육군");
     }
 }
